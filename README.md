@@ -1,2 +1,2 @@
 # Nick-Stose
-My Project Portfolio 
+My Programming Portfolio 
