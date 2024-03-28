@@ -19,4 +19,5 @@
 <h3>Other Accolades</h3>
 <a href="https://www.sololearn.com/en/certificates/CT-XJKR3JMR">SoloLearn HTML Certificate</a><br>
 <a href="https://www.sololearn.com/certificates/CT-ZSBEVMX5">SoloLearn CSS Certificate</a><br>
-<a href="https://www.sololearn.com/certificates/CT-XZI4SQ87">Sololearn C++ Certificate</a> 
+<a href="https://www.sololearn.com/certificates/CT-XZI4SQ87">SoloLearn C++ Certificate</a><br>
+<a href="https://www.sololearn.com/certificates/CC-HUWSDHGB">SoloLearn Front-End for Beginners Certificate</a>
