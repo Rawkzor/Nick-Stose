@@ -1,6 +1,6 @@
 <h1>Welcome, I'm Nick!</h1>		
 <h2>About Me</h2>
-<p>I enjoy tinkering with programs that I come up with while thinking about various problems to solve.</p>
+<p>I enjoy tinkering with programs that I write to solve various problems that I come up with.</p>
 <h2>Programming Languages</h2>
 <p><b>I have experience using the following programming languages</b></p>
 <ul>
