@@ -18,7 +18,9 @@
 <a href="https://www.linkedin.com/in/nicholas-stose-292a58164/">LinkedIn</a>
 <h3>Other Accolades</h3>
 <h4>SoloLearn Certificates</h4>
+<ul>
 <a href="https://www.sololearn.com/en/certificates/CT-XJKR3JMR">HTML</a>
 <a href="https://www.sololearn.com/certificates/CT-ZSBEVMX5">CSSCertificate</a>
 <a href="https://www.sololearn.com/certificates/CT-XZI4SQ87">C++</a>
 <a href="https://www.sololearn.com/certificates/CC-HUWSDHGB">Angular</a>
+</ul>
