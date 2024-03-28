@@ -14,3 +14,5 @@
 <li>Java</li>
 <li>Angular</li>
 </ul>	
+<h3>Contact Me</h3>
+<a href="https://www.linkedin.com/in/nicholas-stose-292a58164/">LinkedIn</a>
