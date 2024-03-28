@@ -16,3 +16,5 @@
 </ul>	
 <h3>Contact Me</h3>
 <a href="https://www.linkedin.com/in/nicholas-stose-292a58164/">LinkedIn</a>
+<h3>Other Accolades</h3>
+<a href="https://www.sololearn.com/en/certificates/CT-XJKR3JMR">SoloLearn HTML Certificate</a>
