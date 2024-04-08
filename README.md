@@ -20,6 +20,7 @@
 <h4>SoloLearn Certificates</h4>
 <ul>
 <li><a href="https://www.sololearn.com/en/certificates/CT-XJKR3JMR">HTML</a></li>
+  <img src="https://github.com/nickstose/nickstose.github.io/blob/main/SoloLearnCSS.jpg">
 <li><a href="https://www.sololearn.com/certificates/CT-ZSBEVMX5">CSS</a></li>
 <li><a href="https://www.sololearn.com/certificates/CT-XZI4SQ87">C++</a></li>
 <li><a href="https://www.sololearn.com/certificates/CC-HUWSDHGB">Angular</a></li>
