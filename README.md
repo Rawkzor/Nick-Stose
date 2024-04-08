@@ -21,10 +21,10 @@
 <ul>
 <li><a href="https://www.sololearn.com/en/certificates/CT-XJKR3JMR">HTML<br>
 	<img src="https://github.com/nickstose/nickstose.github.io/blob/main/SoloLearnCSS.jpg" width=10% height=10% alt="HTML Certificate">
-  </a></li>
+ 	</a></li>
 <li><a href="https://www.sololearn.com/certificates/CT-ZSBEVMX5">CSS<br>
-	<img sec="https://github.com/nickstose/nickstose.github.io/blob/main/SoloLearnCSS.jpg" width=10% height=10% alt="CSS Certificate">
-  </a></li>
+	<img src="https://github.com/nickstose/nickstose.github.io/blob/main/SoloLearnCSS.jpg" width=10% height=10% alt="CSS Certificate">
+	</a></li>	
 <li><a href="https://www.sololearn.com/certificates/CT-XZI4SQ87">C++</a></li>
 <li><a href="https://www.sololearn.com/certificates/CC-HUWSDHGB">Angular</a></li>
 </ul>
